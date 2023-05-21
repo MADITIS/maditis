@@ -15,8 +15,21 @@
   </a>
 </p>
 
-#### Some Other Technologies
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maditis)
+[![Home](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://maditis.in)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=social-square&logo=gmail&logoColor=white)](mailto:manik637@gmail.com)
+
+### Some Other Technologies
 [![other skills](https://skillicons.dev/icons?i=nodejs,django,svelte,docker,astro,postgres,mongodb,redis,flask,nginx&perline=7)](https://skillicons.dev)
 
+### Currently playing with
+[![current](https://skillicons.dev/icons?i=rust,workers)](https://skillicons.dev)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maditis&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maditis&count_private=true&show_icons=true&theme=radical&hide=contribs,prs" />
+</a>
+
