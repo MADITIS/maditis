@@ -8,7 +8,7 @@
 <div align="center">
   <h1>Hi, I'm Manik</h1>
 </div>
-<p>A software engineer in the making, Always interested in learning new things. I learn random stuff in my free time</p>
+<p>A software engineer in the making, I love learning new things. I learn random stuff in my free time</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,go" />
