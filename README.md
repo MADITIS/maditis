@@ -26,10 +26,11 @@
 [![current](https://skillicons.dev/icons?i=rust,workers)](https://skillicons.dev)
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maditis&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maditis&count_private=true&show_icons=true&theme=radical&hide=contribs,prs" />
-</a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maditis&layout=compact" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">  
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maditis&count_private=true&show_icons=true&theme=radical&hide=contribs,prs" />
+  </a>
 
