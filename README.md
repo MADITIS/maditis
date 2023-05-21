@@ -17,7 +17,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maditis)
 [![Home](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://maditis.in)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=social-square&logo=gmail&logoColor=white)](mailto:manik637@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=social-square&logo=gmail&logoColor=white)](mailto:manikd637@gmail.com)
 
 ### Some Other Technologies
 [![other skills](https://skillicons.dev/icons?i=nodejs,django,svelte,docker,astro,postgres,mongodb,redis,flask,nginx&perline=7)](https://skillicons.dev)
